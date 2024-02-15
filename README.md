@@ -1,2 +1,2 @@
 # lab2
- 
+I created a tileset for a public transportation map around the University of Toronto, which includes subway lines and streetcar options. I added a layer for the buildings around UofT and labeled these layers to display the names of the buildings. Additionally, I created a tileset by converting a GeoJSON file into vector data and added it to my map, this includes grass polygons representing Queen's Park. My map highlights public transportation options for reaching UofT, as well as the main buildings and green spaces.
